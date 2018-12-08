@@ -1,10 +1,12 @@
-confcodeofconduct.com
+slackcodeofconduct.tdl
 =====================
 
 Translations
 ------------
 
-If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, `fr.confcodeofconduct.com` will load the `index-fr.html` file.
+##note - this is a fork of [confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com) - this fork is for user forums##
+
+If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, `fr.slackcodeofconduct.tdl` will load the `index-fr.html` file.
 
 Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
 
@@ -36,11 +38,16 @@ Current available translations (in alphabetical order):
 Background
 ----------
 
+##Preface to okiwi / slack version##
+This CoC was cloned to allow modifications for situations other than physical events, notablely for user forums (with Slack being the current favorite). As such, all references to domain names (codeofconduct.com for example), are no longer relevant. If you have a suggestion to improve this fork, please open an issue. 
+
+##Original Version of Background##
+
 I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
 
 This simple site offers up the code of conduct that (I believe) Tiffany Conroy first wrote up for jsconf.eu 2012. I reused the same content (removing the jsconf.eu specific parts) for Full Frontal 2012.
 
-I'd like to continue using this as a simple go to reference for code of conduct for events I run - and equally events you run.
+I'd like to continue using this as a simple go to reference for code of conduct for ~~events~~ slacks I run - and equally ~~events~~ slacks you run.
 
 This is *not* owned by me - this is a public resource - so if there's changes, please create a pull request, and if it makes sense, it'll be merged.
 
