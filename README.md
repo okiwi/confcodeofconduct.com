@@ -4,7 +4,7 @@ slackcodeofconduct.tdl
 Translations
 ------------
 
-##note - this is a fork of [confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com) - this fork is for user forums##
+## note - this is a fork of [confcodeofconduct](https://github.com/confcodeofconduct/confcodeofconduct.com) - this fork is for user forums ##
 
 If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, `fr.slackcodeofconduct.tdl` will load the `index-fr.html` file.
 
@@ -38,10 +38,10 @@ Current available translations (in alphabetical order):
 Background
 ----------
 
-##Preface to okiwi / slack version##
+## Preface to okiwi / slack version ##
 This CoC was cloned to allow modifications for situations other than physical events, notablely for user forums (with Slack being the current favorite). As such, all references to domain names (codeofconduct.com for example), are no longer relevant. If you have a suggestion to improve this fork, please open an issue. 
 
-##Original Version of Background##
+## Original Version of Background ##
 
 I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
 
